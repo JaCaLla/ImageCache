@@ -3,7 +3,7 @@ Sample iOS project that shows a how to implement an image cache. This is the bas
 
 
 
-## Screenshots - ISP principle in Swift
+## iOs App Review
 <img src="media/review.gif" alt="Playground on action" width="300">
 
 ## Requirements
