@@ -1,5 +1,5 @@
 # ImageCache
-Sample iOS project that shows a how to implement an image cache. This is the basecode for following post [Less Fetching, More Speed: NSCache in Action](https://javios.eu/uncategorized/less-fetching-more-speed/)
+Sample iOS project that shows a how to implement an image cache. This is the basecode for following post [Less Fetching, More Speed: NSCache in Action](https://javios.eu/swift/less-fetching-more-speed/)
 
 
 
